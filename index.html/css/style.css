@@ -1,0 +1,17 @@
+h1 {
+    color: black;
+    font-family: monospace;
+    text-align: center;
+    font-size: xxx-large;
+    border: 5px solid;
+    border-radius: 11px;
+
+}
+
+body {
+    background-color: aqua;
+}
+
+img {border: 4px ridge blue;
+    border-radius: 14px;
+}
